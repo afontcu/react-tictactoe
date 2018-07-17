@@ -1,0 +1,15 @@
+.TicTacToe {
+  display: grid;
+  grid-template-columns: repeat(3, 60px);
+  grid-auto-rows: 60px;
+}
+
+.Cell {
+  border: 1px solid #ddd;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+  font-size: 2rem;
+}
