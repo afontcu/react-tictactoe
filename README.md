@@ -8,4 +8,4 @@ https://codesandbox.io/s/7jw5mlo9j
 
 BTW, CodeSandbox is *so cool* they even allowed me to one-click deploy the game:
 
-https://csb-xr5m506j14-jiujystgno.now.sh/
+https://react-tictactoe.now.sh/
