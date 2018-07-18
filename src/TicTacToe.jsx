@@ -48,7 +48,7 @@ class TicTacToe extends React.Component {
             <Cell
               key={i}
               value={result[i]}
-              disabled={gameEnded}
+              disabled={gameEnded || result[i]}
               onClick={() => this.handleClick(i)}
             />
           ))}
