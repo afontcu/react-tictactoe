@@ -42,6 +42,7 @@ class TicTacToe extends React.Component {
 
     return (
       <React.Fragment>
+        <h3>HOLIIII</h3>
         <h3>{status}</h3>
         <div className="TicTacToe">
           {result.map((_, i) => (
